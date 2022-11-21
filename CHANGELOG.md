@@ -1,45 +1,45 @@
-## [0.64.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.0...v0.64.1) (2022-05-07)
-
-
-### Bug Fixes
-
-* Menubar icons position on mobile ([#1196](https://github.com/EddieHubCommunity/LinkFree/issues/1196)) ([e39fc59](https://github.com/EddieHubCommunity/LinkFree/commit/e39fc59868ec37b990114fd482d6d549e1396fa1))
-
-
-
-# [0.64.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.63.1...v0.64.0) (2022-04-09)
+# [1.9.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.8.1...v1.9.0) (2022-11-20)
 
 
 ### Features
 
-* Use current URL in share buttons ([#1211](https://github.com/EddieHubCommunity/LinkFree/issues/1211)) ([dc1b362](https://github.com/EddieHubCommunity/LinkFree/commit/dc1b362fdaf2992c42ef24d799d04c2abac9b827))
+* GitHub link to icon ([#2254](https://github.com/EddieHubCommunity/LinkFree/issues/2254)) ([1357c99](https://github.com/EddieHubCommunity/LinkFree/commit/1357c990e733ad568af8e8a159908f1a8a9c62b6))
 
 
 
-## [0.63.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.63.0...v0.63.1) (2022-04-03)
+## [1.8.1](https://github.com/EddieHubCommunity/LinkFree/compare/v1.8.0...v1.8.1) (2022-11-19)
 
 
 ### Bug Fixes
 
-* User profile type ([#1220](https://github.com/EddieHubCommunity/LinkFree/issues/1220)) ([2e6f876](https://github.com/EddieHubCommunity/LinkFree/commit/2e6f87627b871597badf91942c293dddafd66482))
+* popular and search page ([#2245](https://github.com/EddieHubCommunity/LinkFree/issues/2245)) ([60041ce](https://github.com/EddieHubCommunity/LinkFree/commit/60041ceb6fcae1fbcc792b333593e5c1925b0f3e))
 
 
 
-# [0.63.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.13...v0.63.0) (2022-04-03)
+# [1.8.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.7.6...v1.8.0) (2022-11-19)
 
 
 ### Features
 
-* single user ([#1197](https://github.com/EddieHubCommunity/LinkFree/issues/1197)) ([#1210](https://github.com/EddieHubCommunity/LinkFree/issues/1210)) ([fe22efd](https://github.com/EddieHubCommunity/LinkFree/commit/fe22efdb27a9b28d42875093c573e15e56a27332))
+* QR for users profiles ([#2235](https://github.com/EddieHubCommunity/LinkFree/issues/2235)) ([ec46b84](https://github.com/EddieHubCommunity/LinkFree/commit/ec46b8453c6c7efcf4fcc79eefa09ee93dd930e4)), closes [#2233](https://github.com/EddieHubCommunity/LinkFree/issues/2233)
 
 
 
-## [0.62.13](https://github.com/EddieHubCommunity/LinkFree/compare/v0.62.12...v0.62.13) (2022-03-31)
+## [1.7.6](https://github.com/EddieHubCommunity/LinkFree/compare/v1.7.5...v1.7.6) (2022-11-13)
 
 
 ### Bug Fixes
 
-* user data file ([#1209](https://github.com/EddieHubCommunity/LinkFree/issues/1209)) ([1b3e0dc](https://github.com/EddieHubCommunity/LinkFree/commit/1b3e0dc9e99bc7cf85caf13e6c9794e6389f55b8))
+* removeLabels in reviewpad ([#2230](https://github.com/EddieHubCommunity/LinkFree/issues/2230)) ([eeab421](https://github.com/EddieHubCommunity/LinkFree/commit/eeab4217b487a24c6b0a6c9b56d0e3711e7250f7))
+
+
+
+## [1.7.5](https://github.com/EddieHubCommunity/LinkFree/compare/v1.7.4...v1.7.5) (2022-11-13)
+
+
+### Bug Fixes
+
+* failing tests ([8675cef](https://github.com/EddieHubCommunity/LinkFree/commit/8675cefe71bfa90a9e026bc272b4eb65b6438ad8))
 
 
 
